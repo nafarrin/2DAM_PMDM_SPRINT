@@ -1,4 +1,4 @@
-name: flutteractionwindows
+name: flutteractionmacos
 on:
   push:
     branches:
