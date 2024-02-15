@@ -1,4 +1,4 @@
-name: flutterweb2
+name: flutterIOS
 on:
   push:
     branches:
